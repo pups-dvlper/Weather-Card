@@ -1,0 +1,51 @@
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: #f2f2f2;
+    font-size: small;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+
+  table,tr,th,td, caption{
+    border: .1px solid black;
+    border-collapse: collapse;
+    padding: 6.75px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+  .rotate{
+    -webkit-transform:rotate(25deg);
+  }
+
+  th:nth-child(){
+  background-color: rgb(159, 167, 191,0.5);
+}
+
+  tr:nth-child(even) {
+    background-color: rgb(216, 218, 218,0.5);
+}
+
+
+
+
+
+
+
+
+ 
+  
+ 
+  
+ 
+  
+ 
